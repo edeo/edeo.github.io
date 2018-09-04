@@ -1,2 +1,0 @@
-# edeo.github.io
-homepage
