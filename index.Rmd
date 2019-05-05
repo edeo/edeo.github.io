@@ -2,7 +2,7 @@
 title: "Projects !"
 ---
 
-Welcome to my website !
+Welcome to my website.
 
 Here are some of my projects :
 
@@ -10,9 +10,5 @@ Here are some of my projects :
 
 [minigreenmonster](https://edeo.github.io/minigreenmonster)
 
-links to come:
 
-wmata train led  
-yelp classification  
-default prediction  
 
