@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# SSH keys never belong in this repo
+gitfile
+gitfile.pub
+*.pem
+id_*
